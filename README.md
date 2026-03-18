@@ -11,3 +11,7 @@ Password: admin
 
 # Dashboard
 <img width="1092" height="524" alt="image" src="https://github.com/user-attachments/assets/7a4b8729-cb9d-424e-9aaf-e64dac6071db" />
+
+```text
+Clicking the Export button automatically creates an Excel file named ‘attendance’ containing all student attendance records from the system
+```

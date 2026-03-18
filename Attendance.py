@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 from openpyxl import Workbook
+from datetime import datetime
 import sqlite3
 import os
 
@@ -96,6 +97,10 @@ def export_to_excel():
 
     for row in data:
         ws.append(row)
+
+    now = datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")
+    ws.append([])
+    ws.append(["Exported on:", now])
 
     filename = "attendance.xlsx"
     try:
