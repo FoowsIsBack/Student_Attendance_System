@@ -1,1 +1,10 @@
-# Student_Attendance_System
+# Login
+<img width="441" height="262" alt="image" src="https://github.com/user-attachments/assets/6183fe36-3b24-4129-a66a-4f35201e7c58" />
+
+```sh
+User: admin
+Password: admin
+```
+
+# Dashboard
+<img width="1092" height="524" alt="image" src="https://github.com/user-attachments/assets/7a4b8729-cb9d-424e-9aaf-e64dac6071db" />
